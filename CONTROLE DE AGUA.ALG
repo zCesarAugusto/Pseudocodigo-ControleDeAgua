@@ -1,4 +1,4 @@
-Algoritmo "Atividade 1 Controle de Agua"
+Algoritmo "Controle de Agua"
 
 Var
    QuantApartamento: inteiro
